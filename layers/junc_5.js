@@ -1,0 +1,1 @@
+var json_junc_5 = {"type":"FeatureCollection","name":"junc_5","features":[{"type":"Feature","properties":{"fid":"1","Id":0.0,"Jn_Name":"Varkala","District":"Thiruvananthapuram","Name":"VARKALA"},"geometry":{"type":"Point","coordinates":[1079902.468184537719935,767832.269757438334636]}}]}
